@@ -1,7 +1,7 @@
 <h1 align="center"> Sistema de Restaurante </h1>
 
 <p align="center">
-Projeto produzido durante estudo do paradigma POO em Java.
+Projeto produzido durante o estudo do paradigma POO em Java.
 </p>
 
 <p align="center">
@@ -31,14 +31,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Sistema de Restaurante é um projeto com funcionalidades básicas encontradas nesse tipo de estabelecimento e que também responde as seguintes principais perguntas: 
+O Sistema de Restaurante é um projeto com funcionalidades básicas encontradas nesse tipo de estabelecimento e que também responde as seguintes perguntas: 
 
-* Qual item é mais pedido em cada dia da semana?
-* Qual o ticket médio dos clientes do estabelecimento?
-* Rank de movimentação dos dias da semana 
-* Qual combo que mais sai pra delivery e pra mesa?
+* Qual item é o mais pedido em cada dia da semana?
+* Qual o ticket médio dos clientes que frequentam o estabelecimento?
+* Qual o rank de movimentação dos dias da semana?
+* Qual combo que mais é solicitado para o delivery e para mesa?
 * Qual gera mais faturamento? Delivery ou Presencial?
-* Percentual de clientes que pagam os 10% do garçom?.
+* Qual o percentual de clientes que pagam os 10% do garçom?
 
 ## 🔖 Integrantes
 
