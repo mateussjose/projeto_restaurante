@@ -40,7 +40,7 @@ O Sistema de Restaurante é um projeto com funcionalidades básicas encontradas 
 * Qual gera mais faturamento? Delivery ou Presencial?
 * Qual o percentual de clientes que pagam os 10% do garçom?
 
-## 🔖 Integrantes
+## 👥 Integrantes
 
 - Lucas Husdon
 - Mateus José    
