@@ -52,6 +52,8 @@ As instruções de execução que o usuário vai ver no console são:
 
 ## 👥 Integrantes
 
+Os integrantes do projeto são:
+
 - Lucas Husdon
 - Mateus José    
 - Rosalvo Alves
