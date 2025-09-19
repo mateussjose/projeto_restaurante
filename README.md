@@ -33,12 +33,22 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Sistema de Restaurante é um projeto com funcionalidades básicas encontradas nesse tipo de estabelecimento e que também responde as seguintes perguntas: 
 
-* Qual item é o mais pedido em cada dia da semana?
-* Qual o ticket médio dos clientes que frequentam o estabelecimento?
-* Qual o rank de movimentação dos dias da semana?
-* Qual combo que mais é solicitado para o delivery e para mesa?
-* Qual gera mais faturamento? Delivery ou Presencial?
-* Qual o percentual de clientes que pagam os 10% do garçom?
+- Qual item é o mais pedido em cada dia da semana?
+- Qual o ticket médio dos clientes que frequentam o estabelecimento?
+- Qual o rank de movimentação dos dias da semana?
+- Qual combo que mais é solicitado para o delivery e para mesa?
+- Qual gera mais faturamento? Delivery ou Presencial?
+- Qual o percentual de clientes que pagam os 10% do garçom?
+
+## ☕ Instruções de Execução
+
+As instruções de execução que o usuário vai ver no console são:
+
+- Menu principal
+- Listagem do cardápio
+- Passo a passo para criar pedidos (dia → tipo → gorjeta → produtos)
+- Listagem de pedidos
+- Relatórios completos de vendas
 
 ## 👥 Integrantes
 
