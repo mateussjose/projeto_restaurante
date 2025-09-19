@@ -18,7 +18,7 @@ Projeto produzido durante estudo do paradigma POO em Java.
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="./assets/Capa.jpg" width="100%">
+  <img alt="projeto caoa" src="./project_rest/Capa project.jpg" width="100%">
 </p>
 
 
